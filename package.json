@@ -1,0 +1,27 @@
+{
+  "name": "aros-theme",
+  "displayName": "AROS Theme",
+  "description": "Dark theme. Retrofunk AROS inspired",
+  "version": "0.0.1",
+  "publisher": "xyr0z1ne",
+  "icon": "aros.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xyr0s1gn/aros-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.21.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+      "themes": [
+          {
+              "label": "AROS Theme",
+              "uiTheme": "vs-dark",
+              "path": "./themes/AROS Theme-color-theme.json"
+          }
+      ]
+  }
+}
