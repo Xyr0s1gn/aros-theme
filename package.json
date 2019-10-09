@@ -2,7 +2,7 @@
   "name": "aros-theme",
   "displayName": "AROS Theme",
   "description": "Dark theme. Retrofunk AROS inspired",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "xyr0z1ne",
   "icon": "aros.png",
   "repository": {
