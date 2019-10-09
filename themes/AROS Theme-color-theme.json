@@ -73,7 +73,7 @@
 		"editorError.border": "#B43A36",
 		"editorError.foreground": "#B43A36",
 		// gutter
-		"editorGutter.background": "#272727",
+		"editorGutter.background": "#1f1f1f",
 		"editorGutter.addedBackground": "#3C9F4A",
 		"editorGutter.deletedBackground": "#B43A36",
 		"editorGutter.modifiedBackground": "#26506D",
